@@ -1,9 +1,4 @@
-# Splide
-<p align="center">
-  <a href="https://splidejs.com/" target="_blank">
-    <img src="images/hero.png">
-  </a>
-</p>
+# Splide | SSR
 
 **[Splide](https://splidejs.com/) is a lightweight, powerful and flexible slider and carousel, written in pure JavaScript without any dependencies.**
 
