@@ -16,14 +16,14 @@
 ## Installation
 Get the latest version by NPM:
 ```bash
-$ npm install @splidejs/react-splide
+$ npm install splide-nextjs/react-splide
 ```
 
 ## Usage
 ### Components
 Import `Splide` and `SplideSlide` components:
 ```javascript
-import { Splide, SplideSlide } from '@splidejs/react-splide';
+import { Splide, SplideSlide } from 'splide-nextjs/react-splide';
 ```
 And render them like this:
 ```javascript
@@ -40,11 +40,11 @@ And render them like this:
 ### CSS
 Import [styles](https://splidejs.com/themes/) if you need.
 ```javascript
-import '@splidejs/splide/dist/css/themes/splide-default.min.css';
+import 'splide-nextjs/splide/dist/css/themes/splide-default.min.css';
 // or
-import '@splidejs/splide/dist/css/themes/splide-sea-green.min.css';
+import 'splide-nextjs/splide/dist/css/themes/splide-sea-green.min.css';
 // or
-import '@splidejs/splide/dist/css/themes/splide-skyblue.min.css';
+import 'splide-nextjs/splide/dist/css/themes/splide-skyblue.min.css';
 ```
 
 ## Options
@@ -71,7 +71,7 @@ Note that the first argument is the splide instance, meaning original arguments 
 Here is a small example:
 ```javascript
 import React from 'react';
-import { Splide, SplideSlide } from '@splidejs/react-splide';
+import { Splide, SplideSlide } from 'splide-nextjs/react-splide';
 
 export default () => {
   return (

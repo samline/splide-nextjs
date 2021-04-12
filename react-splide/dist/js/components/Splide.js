@@ -7,7 +7,7 @@ exports["default"] = void 0;
 
 var _react = _interopRequireDefault(require("react"));
 
-var _splide = _interopRequireDefault(require("@splidejs/splide"));
+var _splide = _interopRequireDefault(require("splide-nextjs/splide"));
 
 var _utils = require("../utils");
 
