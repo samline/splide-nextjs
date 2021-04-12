@@ -1,0 +1,19 @@
+{
+  "name": "splide-nextjs",
+  "version": "2.4.21",
+  "description": "This temporary project fixes the \"window is not defined\" error when using SSR. When the original package is patched this package and repository will be deprecated.",
+  "main": "splide/dist/js/splide.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samline/splide-nextjs.git"
+  },
+  "author": "Naotoshi Fujita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Splidejs/splide/issues"
+  },
+  "homepage": "https://github.com/Splidejs/splide#readme"
+}
