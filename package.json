@@ -1,6 +1,6 @@
 {
   "name": "splide-nextjs",
-  "version": "2.4.21",
+  "version": "2.4.22",
   "description": "This temporary project fixes the \"window is not defined\" error when using SSR. When the original package is patched this package and repository will be deprecated.",
   "main": "splide/dist/js/splide.js",
   "scripts": {
